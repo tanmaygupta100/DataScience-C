@@ -1,7 +1,7 @@
 // https://www.geeksforgeeks.org/c-classes-and-objects/
 // MyInClassEx.cpp
 // An example of Accessing Data Members.
-    // Also access objects INSIDE the class here.
+    // Also access objects INSIDE the Class here.
 
 #include <iostream>
 #include <string>
