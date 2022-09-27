@@ -2,7 +2,7 @@
 // MyStructEx1.cpp
 // Example of Structures
 // Assign data to members of a structure and print it.
-    // Use a structure in 2 different variables.
+    // Use a structure to access multiple variables.
     // Also use a named structure as a data type outside the main function.
         // This allows creating variables with struct anywhere in the program and at anytime.
 
