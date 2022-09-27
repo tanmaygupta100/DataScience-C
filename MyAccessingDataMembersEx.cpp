@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/c-classes-and-objects/
 // MyAccessingDataMembersEx.cpp
-// Accessing Data Members
+// An example of Accessing Data Members
 
 #include <iostream>
 #include <string>
