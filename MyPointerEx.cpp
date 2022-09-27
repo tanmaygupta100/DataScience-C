@@ -18,7 +18,7 @@ int main()
     cout << "Pointee - foodOrder location: " << &foodOrder << endl; // with an ampersand, it outputs the location of the variable "foodOrder"
     cout << "Pointer - *Menu: " << *Menu << endl << endl; // shows value of address the pointer is pointing at.
 
-    *Menu = "Calzone\n";
+    *Menu = "Calzone\n"; // Modify the pointer.
     cout << "Pointer for new value for same pointee -" << endl;
     cout << "       Pointer - *Menu: " << *Menu; // for some reason endl added a whole empty line.
     cout << "Pointee - foodOrder: " << foodOrder << endl;
