@@ -1,5 +1,5 @@
 // https://www.w3schools.com/cpp/cpp_structs.asp
-// MyStructEx1.cpp
+// MyStructEx2_MultVarsOutside.cpp
 // Example of Structures
 // Assign data to members of a structure and print it.
     // Use a structure to access multiple variables.
