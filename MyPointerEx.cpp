@@ -1,6 +1,6 @@
 // https://www.w3schools.com/cpp/cpp_pointers_modify.asp
 // MyPointerEx.cpp
-// Hee hee
+// An example of pointers
 
 
 #include <iostream>
