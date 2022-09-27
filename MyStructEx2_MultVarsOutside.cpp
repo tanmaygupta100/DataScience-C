@@ -45,9 +45,9 @@ int main()
 
 /*
 Sample Output:
-___________________
+___________________________
 Brand, topping, and slices:
 Papa John's, Pepperoni, 2
 Lil Caesar's, 3 Cheese, 4
-___________________
+___________________________
 */
