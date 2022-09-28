@@ -1,5 +1,6 @@
 // https://www.w3schools.com/cpp/cpp_function_return.asp
 // Create a function that returns a value.
+    // Pass parameters to a function.
 
 #include <iostream>
 using namespace std;
