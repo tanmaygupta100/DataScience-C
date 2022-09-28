@@ -6,10 +6,10 @@
 #include <string>
 using namespace std;
 
-// Function DECLARATION
-void sayNames(string fname, string lname) // Create the function
+// Function DECLARATION, AKA Create the functions
+void sayNames(string fname, string lname) // List the parameters to be used by the function.
 {
-    //Function definition
+    //Function DEFINITION, AKA What the function does
     cout << "Full: " << fname << " " << lname << endl;
     cout << "   Last name: " << lname << endl;
 }
@@ -17,7 +17,7 @@ void sayNames(string fname, string lname) // Create the function
 
 int main() // The MAIN method
 {
-    sayNames("Danny","Devito"); // CALL the function
+    sayNames("Danny","Devito"); // CALL the function and store values to the parameters
     sayNames("Steve", "Buscemi");
 
     return 0;
