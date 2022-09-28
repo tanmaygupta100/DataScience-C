@@ -4,9 +4,10 @@
 #include <iostream>
 using namespace std;
 
-int addNumbersFunc (int x, int y)
+// Declare the FUNCTION
+int addNumbersFunc (int x, int y) // int x and y are PARAMETERS
 {
-    return x + y;
+    return x + y; // since it's not a void, it can RETURN a value.
 }
 
 
@@ -15,7 +16,7 @@ int main()
     cout << "return: " << addNumbersFunc(5, 3) << endl; // Inserts the values here into the myFunction
 
     int z = addNumbersFunc(4, 7);
-    cout << "int z for return: " << z << endl;
+        cout << "int z for return: " << z << endl;
 
     return 0;
 }
