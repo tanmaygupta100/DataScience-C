@@ -1,0 +1,41 @@
+Do you wish to view the array contents? (Y or N): N
+
+Do you wish to view the array contents? (Y or N): N
+
+Do you wish to view the array contents? (Y or N): N
+
+Do you wish to view the array contents? (Y or N): N
+
+Do you wish to view the array contents? (Y or N): N
+
+Do you wish to view the array contents? (Y or N): N
+
+Maximum contiguous subsequence sum: 198
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.001s
+
+Maximum contiguous subsequence sum: 295
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.001s
+
+Maximum contiguous subsequence sum: 498
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.001s
+
+Maximum contiguous subsequence sum: 673
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.003304s
+
+Maximum contiguous subsequence sum: 1108
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.009835s
+
+Maximum contiguous subsequence sum: 1043
+  Process Timer
+  -------------------------------
+  Elapsed Time   : 0.040073s
